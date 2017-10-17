@@ -1,0 +1,19 @@
+{
+  "name": "http-server-deployer",
+  "version": "1.0.0",
+  "description": "Deploy, execute command and bash scripts on remote server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljymsgutierrez/http-server-deployer.git"
+  },
+  "author": "Chaelgutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeljymsgutierrez/http-server-deployer/issues"
+  },
+  "homepage": "https://github.com/michaeljymsgutierrez/http-server-deployer#readme"
+}
