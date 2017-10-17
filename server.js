@@ -19,6 +19,8 @@ app.get('/api', function(req, res) {
     res.send("Initialized server deployer api");
 });
 
+eval(fs.readFileSync('scripts/deploy.js').toString());
+
 app.listen(port, host, function() {
     console.log("Listening to " + host + ":" + port);
 });
