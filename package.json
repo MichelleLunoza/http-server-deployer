@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/michaeljymsgutierrez/http-server-deployer/issues"
   },
-  "homepage": "https://github.com/michaeljymsgutierrez/http-server-deployer#readme"
+  "homepage": "https://github.com/michaeljymsgutierrez/http-server-deployer#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "helmet": "^3.9.0",
+    "ip": "^1.1.5",
+    "shelljs": "^0.7.8"
+  }
 }
